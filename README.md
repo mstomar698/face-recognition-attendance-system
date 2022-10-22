@@ -1,22 +1,11 @@
-# python
+# Face-Recognition-Attetion-App
 
-cx-Freeze==6.0
-DateTime==4.3
-idna==2.8
-numpy==1.17.3
-opencv-contrib-python==4.2.0.34
-opencv-python==4.1.1.26
-pandas==1.0.4
-Pillow==7.1.2
-python-dateutil==2.8.0
-pytz==2019.3
-six==1.12.0
-zope.interface==4.6.0
+- This is the main project for the PowerToFly Hackthon-Oct-2022
+- Here, we will be building a face-recognition-app that will provide proper authorization of all employees.
 
-==========================================================
-
-Install All the modules mentioned below 
-
+#### To run on local machine 
+```powershell
+# the loacl must have following libs installed for app to work efficiently
 pip install tk-tools
 pip install opencv-contrib-python
 pip install datetime
@@ -26,4 +15,28 @@ pip install numpy
 pip install pillow 
 pip install pandas
 pip install times
+# Then Fork or clone repo from
+git clone https://github.com/mstomar698/face-recognition-attention--system
+```
+```python
+# Once you have all libs installed just run 
+python main.py
+```
+- Leave a ⭐.
 
+#### The functionality of app consists of
+
+* 
+
+#### Demo 
+
+#### Hosted
+
+##### Project By 
+
+* [ButterFly](https://github.com/Butterfly-Google-Dev)
+* [Mayank Singh Tomar](http://github.com/mstomar698)
+
+- Leave a ⭐.
+
+- Licencse Under [MIT]().
