@@ -26,11 +26,18 @@ python main.py
 
 #### The functionality of app consists of
 
-* 
+*  The system has been proposed for maintaining the attendance record. 
+*  The feature extraction process is used to increase the rate of face recognition technique. 
+* Even in the poor light available in the classroom, the
+system will be able to capture the face of student with high quality image.
 
 #### Demo 
+![image](./media/image1_101920.PNG)
+![image](./media/Screenshot%202022-10-23%20020719.jpg)
 
-#### Hosted
+#### Demo Video
+
+[Video-demo-here](https://drive.google.com/file/d/1fLVI8yGjavLDpM6PX6eWBf-dDa2cWg8Y/view?usp=sharing)
 
 ##### Project By 
 
